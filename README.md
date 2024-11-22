@@ -1,4 +1,3 @@
-# Código de detecção de doenças nas folhas das plantas.
 ## Categoriza as plantas de 3 maneiras: saudáveis, empoeiradas ou desbotadas. 
 - Tecnicas de CNN utilizando Keras.
 
