@@ -17,6 +17,6 @@ https://github.com/user-attachments/assets/87e6dd64-c81e-4916-b32e-9c6e82320953
 #### Empoeirada / Powdery
 ![powdery](https://github.com/user-attachments/assets/b86d9e76-8a77-47a4-9284-56cbac5f34d5)
 
-#### Desbotada Rust
+#### Desbotada / Rust
 
 ![rust](https://github.com/user-attachments/assets/f5df81e3-ad17-4b94-9d13-304bd24a5bb3)
